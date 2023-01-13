@@ -1,0 +1,6 @@
+# ignore everything
+*
+
+# except
+!fish_plugins
+!.gitignore
